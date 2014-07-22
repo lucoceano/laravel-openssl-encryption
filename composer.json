@@ -11,8 +11,8 @@
     "license": "MIT",
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "4.0.x",
-        "illuminate/encryption": "4.0.x"
+        "illuminate/support": "4.2.x",
+        "illuminate/encryption": "4.2.x"
     },
     "autoload": {
         "psr-0": {
